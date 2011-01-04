@@ -2,6 +2,8 @@ IS IT CHRISTMAS?
 ===============
 
 ##NO (most likely)
+But check for sure at
+[http://is-it-christmas.heroku.com](http://is-it-christmas.heroku.com).
 
 This was just a simple thing I whipped up while in the festive spirit.
 It is very much inspired by the
